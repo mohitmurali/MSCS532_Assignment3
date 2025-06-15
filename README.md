@@ -10,7 +10,7 @@ This repository contains the implementation and analysis of Randomized Quicksort
 
 ## Running the Code
 1. Install dependencies: `pip install matplotlib`.
-2. Run: `python assignment3.py`.
+2. Run: `python3 assignment3.py`.
 3. Plots are saved as PNG files in the working directory.
 
 ## Report
